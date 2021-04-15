@@ -1,2 +1,3 @@
-# Fullstack_Assignment6
- Product Inventory using React Bootstrap
+# Fullstack_Assignment 6
+
+In this assignment, we will use React-Bootstrap to stylize your application. 
