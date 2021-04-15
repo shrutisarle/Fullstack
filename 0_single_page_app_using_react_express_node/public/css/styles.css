@@ -1,0 +1,68 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: Optima, Segoe, "Segoe UI";
+}
+
+.main{
+height: 100%;
+width: 50%;
+border: 2px solid black ;
+margin: auto;
+background-color:#E9E9E9; 
+}
+
+.name{
+  border: 1px solid black;
+  border-style: solid;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+  width: 50%;
+  margin: 25px auto 25px;
+  background-color: white;
+  margin-top: 20px;
+  font-size: 15pt;
+  }
+
+  .picture{
+   width: 50%;
+  }
+  
+  img{
+    margin: auto;
+    border: 1px solid black ;
+    border-radius: 5px;
+    height:250px;
+    width:250px;
+    display: block;
+
+  }
+
+  .description{
+  width:75%;
+  margin: auto;
+  margin-top: 20px; 
+  }
+
+  .github_button{
+    background-color: #ffffff;
+    border: 1px solid #000;
+    color:#000000;
+    padding: 8px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;      
+    margin: 23px 25px 20px 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: block;
+    align-content: center;       
+  }
+
+  .picture{
+    margin: auto;
+    width: 50%;
+  }
+    
+ 
